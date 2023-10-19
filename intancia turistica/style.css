@@ -1,0 +1,95 @@
+
+body{
+  background-color:#1995c3;
+  width: 960px;
+  margin: auto;
+}
+#cab{
+  background-color: #96e6e2;
+  padding: 10px 20px 10px 20px;
+  border-radius: 0px 0px 20px 20px;
+  color: #fff;
+  
+}
+#parques{
+  background-color: rgb(30, 183, 210);
+  padding: 0px, 10px, 10px, 10%;
+  border-radius: 20px;
+}
+span{
+  color: #fff;
+}
+header, nav, aside,section, footer{
+ background-color: #96e6e2;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+header{
+  
+  color:black;
+  font-size: large;
+}
+nav{
+ 
+ height: 930px;
+ width: 130px; 
+ margin: 15px 15px 15px 0px;
+ float: left;
+}
+
+aside{
+  
+  height: 930px;
+  width: 130px;
+  margin: 15px 0px 15px 15px;
+  float: right;
+}
+section{
+  
+  height: 930px;
+  width: 610px;
+  margin: 15px 0px 15px 0px;
+  float: left;
+}
+footer{
+  
+  height: 50px;
+  width: 940px;
+  margin: 0px 0px 0px 0px;
+  float: left;
+  background-color: #96e6e2;
+  padding: 10px 20px 10px 20px;
+  border-radius: 20px 20px 20px 20px;
+  color: #fff; 
+
+}
+#parques img{
+  float: left;
+  margin: 0px 10px 0px 0px;
+  width: 150px;
+
+}
+#parques article{
+  border-bottom: 1px dashed #AFF;
+  
+}
+.fix{
+  clear: both;
+}
+#parques p{
+  color: bisque;
+  text-align: justify;
+
+}
+#parques h1, h2{
+  color: bisque;
+ 
+
+}
+h2{
+  padding-top: 10px;
+}
+h1{
+  font-size: 15px;
+}
